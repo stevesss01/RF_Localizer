@@ -194,7 +194,7 @@ A 10 µF capacitor is connected across **VCC and GND** near the RF module to hel
 # Project Structure
 
 ```text
-RF-Localizer/
+RF-Localizer
 │
 ├── arduino/
 │   ├── transmitter/
